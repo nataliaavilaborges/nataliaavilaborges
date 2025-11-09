@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0E47E6&text=Data%20Science&textBg=false&fontColor=FFFFFF&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=120&color=43578E&text=Data%20Science&textBg=false&fontColor=FFFFFF&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&color=042FA2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nat%C3%A1lia+%C3%81vila+Borges;I'm+a+Data+Scientistfrom+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
