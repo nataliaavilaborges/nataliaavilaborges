@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=120&color=43578E&text=Data%20Science&textBg=false&fontColor=FFFFFF&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&color=404963&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nat%C3%A1lia+%C3%81vila+Borges;I'm+a+Data+Scientist+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&color=5169AC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nat%C3%A1lia+%C3%81vila+Borges;I'm+a+Data+Scientist+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
  ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
